@@ -19,5 +19,6 @@ using namespace std;
 int main()
 {
     cout << __cplusplus << endl;
+    cout << "ubuntu cout" << endl;
     return 0;
 }
